@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "compression": "^1.7.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-gcloud-publish": "^2.1.1",
     "polka": "next",
     "sirv": "^0.4.0"
